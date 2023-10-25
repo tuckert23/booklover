@@ -7,4 +7,4 @@ setup(name="booklover",
       author="Taylor Tucker", 
       author_email="fake_email@example.com", 
       license="MIT", 
-      packages=["booklover"])
+      packages=["booklover_tools"])
