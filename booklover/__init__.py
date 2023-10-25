@@ -1,0 +1,2 @@
+from booklover.booklover import BookLover
+from booklover.booklover_test import BookLoverTestSuite
